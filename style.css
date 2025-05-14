@@ -1,0 +1,22 @@
+
+body {
+    background: #222222;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+p, a, h1, h2 {
+    color: white;
+}
+
+img {
+    background: white;
+    border-radius: 99999999px;
+}
+
+header {
+    background: #333333
+}
+
+html {
+    padding: 0;
+}
